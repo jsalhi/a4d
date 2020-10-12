@@ -1,0 +1,9 @@
+python3 parsepdf.py 2011.pdf
+python3 parsepdf.py 2012.pdf
+python3 parsepdf.py 2013.pdf
+python3 parsepdf.py 2014.pdf
+python3 parsepdf.py 2015.pdf
+python3 parsepdf.py 2016.pdf
+python3 parsepdf.py 2017.pdf
+python3 parsepdf.py 2018.pdf
+python3 parsepdf.py 2019.pdf
